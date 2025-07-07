@@ -1,0 +1,4 @@
+ld
+clang
+nasm
+coreutils
